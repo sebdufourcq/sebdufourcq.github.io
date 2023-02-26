@@ -2,7 +2,7 @@
 layout: default
 ---
 ![GitHub last commit](https://img.shields.io/github/last-commit/sebdufourcq/sebdufourcq.github.io)
-![THM top](https://img.shields.io/badge/THM-Top%206%25-success)
+![THM top](THM Top 6_.svg)
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3LPR0F350R.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
