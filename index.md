@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3LPR0F350R.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
