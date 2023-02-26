@@ -2,7 +2,7 @@
 layout: default
 ---
 ![GitHub last commit](https://img.shields.io/github/last-commit/sebdufourcq/sebdufourcq.github.io)
-![THM top](https://github.com/sebdufourcq/sebdufourcq.github.io/blob/5def6fba1e219adba6f7a8a419ad0e18231ad37a/assets/images/THM%20Top%206_.svg)
+![THM top](https://raw.githubusercontent.com/sebdufourcq/sebdufourcq.github.io/5def6fba1e219adba6f7a8a419ad0e18231ad37a/assets/images/THM%20Top%206_.svg)
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3LPR0F350R.png)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
