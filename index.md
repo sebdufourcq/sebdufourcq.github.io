@@ -5,6 +5,9 @@ layout: default
 ![THM top](https://raw.githubusercontent.com/sebdufourcq/sebdufourcq.github.io/5def6fba1e219adba6f7a8a419ad0e18231ad37a/assets/images/THM%20Top%206_.svg)
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3LPR0F350R.png)
 
+
+[Link to Hacktoria cards showcase](./hacktoria/cards-showcase.html).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
