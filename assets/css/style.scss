@@ -3,17 +3,14 @@
 
 @import "jekyll-theme-cayman";
 
-// Custom fix for GitHub Pages
-.main-content .highlight pre, .main-content pre {
-	border-radius: 0;
-}
+// thankful_eyes theme for syntax highlighting ( with custom fixes)
 
-.main-content pre {
-	color: #faf6e4;
-	background-color: #122b3b;
-}
+.main-content pre { background-color: #122b3b; border: 0; }
+.main-content pre > code { color: #faf6e4; }
 
-// thankful_eyes theme for syntax highlighting
+
+	
+
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight {
